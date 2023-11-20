@@ -13,7 +13,7 @@
 	<string>This app needs access to location when open and in the background.</string>	
 
 
-# ios gamera or gallery
+# ios camera or gallery
 	<key>NSCameraUsageDescription</key>
 	<string>Used to demonstrate image picker plugin</string>
 	<key>NSMicrophoneUsageDescription</key>
