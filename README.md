@@ -20,3 +20,8 @@
 	<string>Used to capture audio for image picker plugin</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Used to demonstrate image picker plugin</string>
+
+
+# Temp
+	https://gist.github.com/gdurastanti/e79b1fae40a4eff14f5636b8994a89fc?permalink_comment_id=4154712
+ 
